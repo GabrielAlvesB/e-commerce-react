@@ -1,0 +1,22 @@
+.breadcrums{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #5e5e5e;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 60px 170px;
+    text-transform: capitalize;
+}
+
+@media (max-width: 390px){
+    .breadcrums{
+        margin: 20px 5px;
+    }
+    .breadcrums-mobile {
+        white-space: nowrap; /* Impede que o texto quebre em várias linhas */
+        overflow: hidden; /* Oculta o texto que não cabe na linha */
+        text-overflow: ellipsis; /* Adiciona "..." ao final do texto cortado */
+      }
+      
+}
