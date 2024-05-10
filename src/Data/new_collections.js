@@ -1,11 +1,11 @@
-import p1_img from "../Components/Assets/pc12.jpg";
-import p2_img from "../Components/Assets//tecla1.jpg";
-import p3_img from "../Components/Assets/not11.jpg";
-import p4_img from "../Components/Assets/pc8.jpg";
-import p5_img from "../Components/Assets/not9.jpg";
-import p6_img from "../Components/Assets/pc2.jpg";
-import p7_img from "../Components/Assets/not5.jpg";
-import p8_img from "../Components/Assets/head1.jpg";
+import p1_img from "../../public/Assets/pc12.jpg";
+import p2_img from "../../public/Assets//tecla1.jpg";
+import p3_img from "../../public/Assets/not11.jpg";
+import p4_img from "../../public/Assets/pc8.jpg";
+import p5_img from "../../public/Assets/not9.jpg";
+import p6_img from "../../public/Assets/pc2.jpg";
+import p7_img from "../../public/Assets/not5.jpg";
+import p8_img from "../../public/Assets/head1.jpg";
 
 let new_collections = [
   {

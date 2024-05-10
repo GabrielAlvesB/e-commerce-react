@@ -53,17 +53,26 @@
         padding: 0;
         width: 100%;
     }
-    .exclusive-offers-left{
+
+    .exclusive-offers{
+        width: 100%;
         padding: 0;
+        margin-bottom: 0;
+        margin-top: 100px;
+    }
+
+    .exclusive-offers-left{
         justify-content: center;
         align-items: center;
+        margin-top: -100px;
     }
 
     .exclusive-offers-left h1{
-        font-size: 50px;
+        font-size: 40px;
     }
     .exclusive-offers-left p{
         font-size: 20px;
+        padding: 20px;
     }
     
     .exclusive-offers-left button{

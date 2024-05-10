@@ -1,7 +1,7 @@
 import React from 'react'
 import './ExclusiveOffers.css'
 
-import exclusive_image from '../Assets/p1_img-removebg-preview.png'
+import exclusive_image from '../../../public/Assets/p1_img-removebg-preview.png'
 
 const ExclusiveOffers = () => {
   return (

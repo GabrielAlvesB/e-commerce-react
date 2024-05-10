@@ -1,7 +1,7 @@
-import p1_img from '../Components/Assets/pc1.jpg'
-import p2_img from '../Components/Assets/pc2.jpg'
-import p3_img from '../Components/Assets/pc4.jpg'
-import p4_img from '../Components/Assets/pc3.jpg'
+import p1_img from '../../public/Assets/pc1.jpg'
+import p2_img from '../../public/Assets/pc2.jpg'
+import p3_img from '../../public/Assets/pc4.jpg'
+import p4_img from '../../public/Assets/pc3.jpg'
 
 let data_product = [
   {

@@ -1,8 +1,8 @@
 import React from 'react'
 import './MainBanner.css'
-import hand_icon from '../Assets/desktop-computer.png'
-import arrow_icon from '../Assets/arrow.png'
-import hero_image from '../Assets/p1_img-removebg-preview.png'
+import hand_icon from '../../../public/Assets/desktop-computer.png'
+import arrow_icon from '../../../public/Assets/arrow.png'
+import hero_image from '../../../public/Assets/p1_img-removebg-preview.png'
 
 const MainBanner = () => {
   return (
